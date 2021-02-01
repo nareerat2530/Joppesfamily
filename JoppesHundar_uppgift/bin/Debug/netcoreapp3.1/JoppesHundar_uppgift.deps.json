@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JoppesHundar_uppgift/1.0.0": {
+        "runtime": {
+          "JoppesHundar_uppgift.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JoppesHundar_uppgift/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

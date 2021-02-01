@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\naree\\Desktop\\programming2\\JoppesHundar_uppgift\\WindowsForms_Joppe\\WinFormsApp1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\naree\\Desktop\\programming2\\JoppesHundar_uppgift\\WindowsForms_Joppe\\WinFormsApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\naree\\Desktop\\programming2\\JoppesHundar_uppgift\\WindowsForms_Joppe\\WinFormsApp1.csproj",
+        "projectName": "WinFormsApp1",
+        "projectPath": "C:\\Users\\naree\\Desktop\\programming2\\JoppesHundar_uppgift\\WindowsForms_Joppe\\WinFormsApp1.csproj",
+        "packagesPath": "C:\\Users\\naree\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\naree\\Desktop\\programming2\\JoppesHundar_uppgift\\WindowsForms_Joppe\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\naree\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48-windows",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

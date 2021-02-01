@@ -1,0 +1,13 @@
+C:\Users\naree\Desktop\programming2\JoppesHundar_uppgift\JoppesHundar_uppgift\bin\Debug\netcoreapp3.1\JoppesHundar_uppgift.exe
+C:\Users\naree\Desktop\programming2\JoppesHundar_uppgift\JoppesHundar_uppgift\bin\Debug\netcoreapp3.1\JoppesHundar_uppgift.deps.json
+C:\Users\naree\Desktop\programming2\JoppesHundar_uppgift\JoppesHundar_uppgift\bin\Debug\netcoreapp3.1\JoppesHundar_uppgift.runtimeconfig.json
+C:\Users\naree\Desktop\programming2\JoppesHundar_uppgift\JoppesHundar_uppgift\bin\Debug\netcoreapp3.1\JoppesHundar_uppgift.runtimeconfig.dev.json
+C:\Users\naree\Desktop\programming2\JoppesHundar_uppgift\JoppesHundar_uppgift\bin\Debug\netcoreapp3.1\JoppesHundar_uppgift.dll
+C:\Users\naree\Desktop\programming2\JoppesHundar_uppgift\JoppesHundar_uppgift\bin\Debug\netcoreapp3.1\JoppesHundar_uppgift.pdb
+C:\Users\naree\Desktop\programming2\JoppesHundar_uppgift\JoppesHundar_uppgift\obj\Debug\netcoreapp3.1\JoppesHundar_uppgift.csprojAssemblyReference.cache
+C:\Users\naree\Desktop\programming2\JoppesHundar_uppgift\JoppesHundar_uppgift\obj\Debug\netcoreapp3.1\JoppesHundar_uppgift.AssemblyInfoInputs.cache
+C:\Users\naree\Desktop\programming2\JoppesHundar_uppgift\JoppesHundar_uppgift\obj\Debug\netcoreapp3.1\JoppesHundar_uppgift.AssemblyInfo.cs
+C:\Users\naree\Desktop\programming2\JoppesHundar_uppgift\JoppesHundar_uppgift\obj\Debug\netcoreapp3.1\JoppesHundar_uppgift.csproj.CoreCompileInputs.cache
+C:\Users\naree\Desktop\programming2\JoppesHundar_uppgift\JoppesHundar_uppgift\obj\Debug\netcoreapp3.1\JoppesHundar_uppgift.dll
+C:\Users\naree\Desktop\programming2\JoppesHundar_uppgift\JoppesHundar_uppgift\obj\Debug\netcoreapp3.1\JoppesHundar_uppgift.pdb
+C:\Users\naree\Desktop\programming2\JoppesHundar_uppgift\JoppesHundar_uppgift\obj\Debug\netcoreapp3.1\JoppesHundar_uppgift.genruntimeconfig.cache

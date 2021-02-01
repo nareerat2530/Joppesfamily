@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "VuaL9GIOnH9RvNjBqhWZ2CDA6UWQSMWPh3mxj6/KppSiihgP1Rg88qbPxg64ZnnAPn6rItXyIpuSuL+csB5D1g==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\naree\\Desktop\\programming2\\JoppesHundar_uppgift\\JoppesHundar_WinForms\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\naree\\Desktop\\programming2\\JoppesHundar_uppgift\\JoppesHundar_WinForms\\JoppesHundar_uppgift\\JoppesHundar_uppgift.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\naree\\Desktop\\programming2\\JoppesHundar_uppgift\\JoppesHundar_WinForms\\JoppesHundar_uppgift\\JoppesHundar_uppgift.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

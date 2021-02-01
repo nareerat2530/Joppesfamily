@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WinFormsApp1/1.0.0": {
+        "dependencies": {
+          "JoppesHundar_uppgift": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsApp1.dll": {}
+        }
+      },
+      "JoppesHundar_uppgift/1.0.0": {
+        "runtime": {
+          "JoppesHundar_uppgift.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JoppesHundar_uppgift/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
